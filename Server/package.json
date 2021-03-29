@@ -1,0 +1,19 @@
+{
+  "name": "symbol_assistant_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node ./server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "rxjs": "^6.6.6",
+    "symbol-sdk": "^1.0.0",
+    "typescript": "^4.2.3",
+    "utf8": "^3.0.0"
+  }
+}
